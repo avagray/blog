@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ava's Blog</title><link href="http://avagray.github.io/blog/" rel="alternate"></link><link href="http://avagray.github.io/blog/feeds/misc.atom.xml" rel="self"></link><id>http://avagray.github.io/blog/</id><updated>2015-03-15T00:00:00+01:00</updated><entry><title>First Post</title><link href="http://avagray.github.io/blog/first-post.html" rel="alternate"></link><updated>2015-03-15T00:00:00+01:00</updated><author><name>Ava Gray</name></author><id>tag:avagray.github.io,2015-03-15:blog/first-post.html</id><summary type="html">&lt;div class="section" id="post"&gt;
+&lt;h2&gt;Post&lt;/h2&gt;
+&lt;p&gt;i went to the park.&lt;/p&gt;
+&lt;p&gt;i climbed a spider rope.&lt;/p&gt;
+&lt;p&gt;i had fun at the park.&lt;/p&gt;
+&lt;p&gt;wyatt is taking a bath.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry></feed>
