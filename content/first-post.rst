@@ -2,7 +2,14 @@ First Post
 ==========
 
 :date: 2015-03-15
-:status: draft
 
 Post
 ----
+
+i went to the park.
+
+i climbed a spider rope.
+
+i had fun at the park.
+
+wyatt is taking a bath.
